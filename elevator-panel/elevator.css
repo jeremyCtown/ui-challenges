@@ -40,11 +40,6 @@
     margin: 30px 10px 10px 160px;
 }
 
-/* .floors {
-    width: 90px;
-    height: 95px;
-} */
-
 .buttons {
     height: 60px;
     width: 60px;
@@ -52,11 +47,6 @@
     border: 2px solid black;
     color: black;
     padding: 10px;
-    /* text-align: center; */
-    /* text-decoration: none; */
-    /* font-size: 30px; */
-    /* font-weight: bold; */
-    /* margin: 4px 2px; */
     border-radius: 50%;
     vertical-align: middle;
 }
