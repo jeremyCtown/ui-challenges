@@ -1,0 +1,83 @@
+.panel {
+    width: 300px;
+    height: 430px;
+    margin: auto;
+    background-color: lightgray;
+    font-family: sans-serif;
+    border: 3px solid black;
+}
+
+.display {
+    width: 250px;
+    height: 180px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: black;
+    padding: 10px;
+}
+
+.number {
+    color: white;
+    padding: 20px 0 0 30px;
+    font-size: 150px;
+    text-align: left;
+    position: fixed;
+}
+
+.light {
+    width: 60px;
+    height: 60px;
+
+}
+
+.green {
+    background-color: green;
+    margin: 10px 10px 30px 160px;
+}
+
+.red {
+    background-color: red;
+    margin: 30px 10px 10px 160px;
+}
+
+/* .floors {
+    width: 90px;
+    height: 95px;
+} */
+
+.buttons {
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    /* text-decoration: none; */
+    font-size: 30px;
+    font-weight: bold;
+    /* margin: 4px 2px; */
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.three {
+    margin: 20px 0px 0px 40px;
+    position: absolute;
+    vertical-align: middle;
+}
+
+.four {
+    margin: 20px 0px 0px 200px;
+    position: absolute;
+}
+
+.one {
+    margin: 110px 0px 0px 40px;
+    position: absolute;
+}
+
+.two {
+    margin: 110px 0px 0px 200px;
+    position: absolute;
+}
